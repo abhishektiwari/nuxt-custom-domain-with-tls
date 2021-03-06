@@ -1,5 +1,5 @@
 # Custom Domains with On-demand TLS
-Example implement custom domains support with on-demand TLS (HTTPS) using Nuxt and Caddy.
+Example implementation of custom domains support with on-demand TLS (HTTPS) using Nuxt and Caddy.
 
 - Caddy to provision on-demand TLS on wildcard domain/custom domain
 - Nuxt middleware to detect domain forwarded by Caddy as host header
