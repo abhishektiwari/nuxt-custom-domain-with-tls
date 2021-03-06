@@ -1,0 +1,28 @@
+{
+  storage redis {
+    host         "127.0.0.1"
+    port         6379
+    db           2
+    key_prefix   "caddytls"
+    value_prefix "caddy-storage-redis"
+    timeout      5
+    tls_enabled  "false"
+    tls_insecure "true"
+  }
+}
+
+*.go.compare, *.foo.bar  {
+    tls internal  {
+        on_demand
+    }
+    reverse_proxy localhost:3000 {
+        header_up Host                {host}
+        header_up Origin              {host}
+        header_up X-Real-IP           {remote}
+        header_up X-Forwarded-Host    {host}
+        header_up X-Forwarded-Server  {host}
+        header_up X-Forwarded-Port    {port}
+        header_up X-Forwarded-For     {remote}
+        header_up X-Forwarded-Proto   {scheme}
+    }
+}
