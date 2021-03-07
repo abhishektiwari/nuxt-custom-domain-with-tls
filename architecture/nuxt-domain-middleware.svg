@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="344 245 631 357" width="631" height="357">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="280.9" y="209.3">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Roboto Mono for Powerline" font-size="12" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="700">
+      <font-face-src>
+        <font-face-name name="RobotoMonoForPowerline-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Roboto Mono for Powerline" font-size="10" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="RobotoMonoForPowerline-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.3\n2021-03-07 09:16:46 +0000</metadata>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="344" y="245" width="631" height="357"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_26_shadow" filter="url(#Shadow)">
+        <path d="M 508.5 298.6 L 508.5 255.4 C 508.5 252.4192 520.596 250 535.5 250 C 550.404 250 562.5 252.4192 562.5 255.4 L 562.5 298.6 C 562.5 301.5808 550.404 304 535.5 304 C 520.596 304 508.5 301.5808 508.5 298.6" fill="white"/>
+        <path d="M 508.5 298.6 L 508.5 255.4 C 508.5 252.4192 520.596 250 535.5 250 C 550.404 250 562.5 252.4192 562.5 255.4 L 562.5 298.6 C 562.5 301.5808 550.404 304 535.5 304 C 520.596 304 508.5 301.5808 508.5 298.6 M 508.5 255.4 C 508.5 258.3808 520.596 260.8 535.5 260.8 C 550.404 260.8 562.5 258.3808 562.5 255.4" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 494.5 453.5 L 576.5 453.5 C 581.47056 453.5 585.5 457.52944 585.5 462.5 L 585.5 508.5 C 585.5 513.47056 581.47056 517.5 576.5 517.5 L 494.5 517.5 C 489.52944 517.5 485.5 513.47056 485.5 508.5 L 485.5 462.5 C 485.5 457.52944 489.52944 453.5 494.5 453.5 Z" fill="white"/>
+        <path d="M 494.5 453.5 L 576.5 453.5 C 581.47056 453.5 585.5 457.52944 585.5 462.5 L 585.5 508.5 C 585.5 513.47056 581.47056 517.5 576.5 517.5 L 494.5 517.5 C 489.52944 517.5 485.5 513.47056 485.5 508.5 L 485.5 462.5 C 485.5 457.52944 489.52944 453.5 494.5 453.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(490.5 471.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="23.396484" y="11">Domain </tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="8.994141" y="25">Middleware</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 354 454.224 L 436 454.224 C 440.97056 454.224 445 458.25344 445 463.224 L 445 509.224 C 445 514.19456 440.97056 518.224 436 518.224 L 354 518.224 C 349.02944 518.224 345 514.19456 345 509.224 L 345 463.224 C 345 458.25344 349.02944 454.224 354 454.224 Z" fill="white"/>
+        <path d="M 354 454.224 L 436 454.224 C 440.97056 454.224 445 458.25344 445 463.224 L 445 509.224 C 445 514.19456 440.97056 518.224 436 518.224 L 354 518.224 C 349.02944 518.224 345 514.19456 345 509.224 L 345 463.224 C 345 458.25344 349.02944 454.224 354 454.224 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+        <text transform="translate(350 479.224)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="23.396484" y="11">Render</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 775.5 453.5 L 857.5 453.5 C 862.4706 453.5 866.5 457.52944 866.5 462.5 L 866.5 508.5 C 866.5 513.47056 862.4706 517.5 857.5 517.5 L 775.5 517.5 C 770.5294 517.5 766.5 513.47056 766.5 508.5 L 766.5 462.5 C 766.5 457.52944 770.5294 453.5 775.5 453.5 Z" fill="white"/>
+        <path d="M 775.5 453.5 L 857.5 453.5 C 862.4706 453.5 866.5 457.52944 866.5 462.5 L 866.5 508.5 C 866.5 513.47056 862.4706 517.5 857.5 517.5 L 775.5 517.5 C 770.5294 517.5 766.5 513.47056 766.5 508.5 L 766.5 462.5 C 766.5 457.52944 770.5294 453.5 775.5 453.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+        <text transform="translate(771.5 471.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="30.597656" y="11">Nuxt</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="8.994141" y="25">ServerInit</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(912 478.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="0" y="11">Request</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 635 453.5 L 717 453.5 C 721.9706 453.5 726 457.52944 726 462.5 L 726 508.5 C 726 513.47056 721.9706 517.5 717 517.5 L 635 517.5 C 630.0294 517.5 626 513.47056 626 508.5 L 626 462.5 C 626 457.52944 630.0294 453.5 635 453.5 Z" fill="white"/>
+        <path d="M 635 453.5 L 717 453.5 C 721.9706 453.5 726 457.52944 726 462.5 L 726 508.5 C 726 513.47056 721.9706 517.5 717 517.5 L 635 517.5 C 630.0294 517.5 626 513.47056 626 508.5 L 626 462.5 C 626 457.52944 630.0294 453.5 635 453.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+        <text transform="translate(631 471.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="26.99707" y="11">Route</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="8.994141" y="25">Middleware</tspan>
+        </text>
+      </g>
+      <g id="Line_16">
+        <line x1="907" y1="485.5" x2="876.4" y2="485.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <line x1="766.5" y1="485.5" x2="735.9" y2="485.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="626" y1="485.5" x2="595.4" y2="485.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <line x1="485.5" y1="485.75765" x2="454.89987" y2="485.91533" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(912 582.724)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="0" y="11">Response</tspan>
+        </text>
+      </g>
+      <g id="Line_21">
+        <path d="M 395 518.224 L 395 528.224 L 394.8047 574.724 L 394.8047 589.724 L 897.1 589.724" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_27">
+        <rect x="485.5" y="345.5" width="100" height="64" fill="white"/>
+        <rect x="485.5" y="345.5" width="100" height="64" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(490.5 363.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="1.7929688" y="11">Domain Check</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="12" font-weight="700" fill="black" x="19.795898" y="25">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 508.5 298.6 L 508.5 255.4 C 508.5 252.4192 520.596 250 535.5 250 C 550.404 250 562.5 252.4192 562.5 255.4 L 562.5 298.6 C 562.5 301.5808 550.404 304 535.5 304 C 520.596 304 508.5 301.5808 508.5 298.6" fill="white"/>
+        <path d="M 508.5 298.6 L 508.5 255.4 C 508.5 252.4192 520.596 250 535.5 250 C 550.404 250 562.5 252.4192 562.5 255.4 L 562.5 298.6 C 562.5 301.5808 550.404 304 535.5 304 C 520.596 304 508.5 301.5808 508.5 298.6 M 508.5 255.4 C 508.5 258.3808 520.596 260.8 535.5 260.8 C 550.404 260.8 562.5 258.3808 562.5 255.4" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(513.5 268.7)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x=".996582" y="9">Allowed</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x=".996582" y="20">Domains</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="535.5" y1="304" x2="535.5" y2="345.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(409 250.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x="0" y="9">*.foo.bar</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(409 271.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x="0" y="9">*.go.compare</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(401.49756 292.5)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x="0" y="9">my-custom.domain</tspan>
+        </text>
+      </g>
+      <g id="Line_28">
+        <line x1="535.5" y1="419.4" x2="535.5" y2="443.6" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_29">
+        <path d="M 535.5 517.5 L 535.5 527.5 L 535.9844 550.58594 L 535.9844 589.724 L 897.1 589.724" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(543 537)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x="3.0004883" y="9">Invalid domain </tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="10" font-weight="400" fill="black" x="15.002441" y="20">Return 404 </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

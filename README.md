@@ -11,6 +11,8 @@ Example implementation of custom domains support with on-demand TLS (HTTPS) usin
 
 ## Application Level
 
+![Nuxt Domain Middleware](architecture/nuxt-domain-middleware.svg)
+
 # Running
 Clone this repository and follow instructions below.
 
