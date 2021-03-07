@@ -4,7 +4,17 @@ Example implementation of custom domains support with on-demand TLS (HTTPS) usin
 - Caddy to provision on-demand TLS on wildcard domain/custom domain
 - Nuxt middleware to detect domain forwarded by Caddy as host header
 
-## Build Setup
+# Architecture
+
+## High-level
+![High-level Architecture](architecture/caddy-custom-domain-on-demend-tls.svg)
+
+## Application Level
+
+# Running
+Clone this repository and follow instructions below.
+
+## Nuxt build setup
 
 a. Install dependencies
 ```bash
@@ -76,7 +86,7 @@ scutil --dns
 ```
 
 
-## Local Caddy Setup
+## Local Caddy setup
 
 a. Install Redis for storage,
 ```bash
